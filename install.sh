@@ -50,6 +50,8 @@ pyenv install 3.6.5
 
 yum install -y tmux
 
+wget https://raw.githubusercontent.com/Daoctor/Scripts/master/tmux.conf -O ~/.tmux.conf
+
 
 
 
